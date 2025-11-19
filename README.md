@@ -72,8 +72,8 @@ Follow these steps to run the project locally:
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/Dharmaraju53/Django_ecommerce.git
-cd Django_ecommerce
+git clone https://github.com/bkit-solutions/Trendy_Django.git
+cd Trendy_Django
 ```
 
 ---
@@ -133,8 +133,8 @@ Use your superuser credentials to log into the admin panel.
 
 ## 👥 Project Maintainer  
 
-<h3 align="center">Dharmaraju</h3>
+<h3 align="center">BKIT</h3>
 
 <p align="center">
-A passionate developer building efficient and scalable web applications.  
+A passionate team building efficient and scalable web applications.  
 </p>
